@@ -1,0 +1,12 @@
+h1 {
+  font-size: 3rem;
+  color: white;
+  font-weight: 600; }
+
+body {
+  background: red; }
+  body h1 {
+    text-transform: uppercase; }
+
+
+/*# sourceMappingURL=/main.77bb5cfd.css.map */

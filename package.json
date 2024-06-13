@@ -1,0 +1,18 @@
+{
+  "name": "parcel-intro",
+  "version": "1.0.0",
+  "description": "run parcel src/index.html to run the server for this application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "watch": "parcel src/index.html",
+    "production": "parcel build src/index.html -d build --public-url ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
