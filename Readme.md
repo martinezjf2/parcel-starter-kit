@@ -1,0 +1,1 @@
+run parcel src/index.html to run the server for this application
