@@ -1,6 +1,10 @@
 @import 'reset';
 @import 'variable';
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: $background;
     h1 {
